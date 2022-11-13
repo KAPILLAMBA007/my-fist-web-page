@@ -1,0 +1,36 @@
+.ank{
+  background-color: cadetblue;  
+}
+.r{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    background-color: aqua;
+}
+.r>a,p{
+    margin-left: 14px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.xyz{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+.abc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+.def{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
